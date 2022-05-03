@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranLaFrossia
 - 👀 I’m interested in product development (specially frontend)
-- 🌱 I’m currently learning vue.js and quasar
+- 🌱 I’m currently learning vue.js, quasar & SwiftUI
 - 💞️ I’m looking to collaborate on cool, new, small side-projects.
 - 📫 How to reach me lafrossiafrancisco@gmail.com
 
